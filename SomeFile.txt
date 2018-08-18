@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Some commit changed
 one more line
+=======
+Some commit sdsdfs
+>>>>>>> rebasecommit
