@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Some commit changed
 one more line
 =======
@@ -15,3 +16,7 @@ Some commit changed
 =======
 some other commit
 >>>>>>> rebasecommit
+=======
+some other commit
+one line
+>>>>>>> thisismasterincrementalcommit
